@@ -18,6 +18,6 @@ shipping_manifest["oil paintings"]
 end
 
 def adding
-  shipping_manifest ["muskets"] = 2,[ "gun powder"]= [4]
+  shipping_manifest ["muskets"] = 2,
   
 end
