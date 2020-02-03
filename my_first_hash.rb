@@ -18,6 +18,7 @@ shipping_manifest["oil paintings"]
 end
 
 def adding
-  shipping_manifest ["muskets"] = 2,
+  
+   shipping_manifest ["muskets"] = 2,
   
 end
